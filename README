@@ -1,3 +1,5 @@
+File written to plot coordinate points to visualize relationship between population labels comming from different datasets
+
 To make this notebook work, geopandas was installed in conda env. 
 Conda env can be used in jupyter-notebook kernel by running following command from the activated env:
 
