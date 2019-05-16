@@ -1,4 +1,4 @@
-![alt text](https://github.com/Alongthoselines/World_map/tree/master/images/plot.png)
+![](images/plot.png)
 # World Map Population Visualization 
 
 Using matplotlib to plot coordinate points and visualize relationship between population labels/classifications from different datasets
